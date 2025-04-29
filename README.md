@@ -49,4 +49,4 @@ A console-based Library Management System developed in C++ that allows the users
 ---
 ## Project Documentation
 
-For a detailed explanation of the system's design, class description, and more, please refer to the full [Project Documentation](./docs/Konrad_Wlodarczyk_OOP_project_documentation.docx).
+For a detailed explanation of the system's design, class description, and more, please refer to the full [Project Documentation](docs/Konrad_Włodarczyk_OOP_project_documentation.docx).
