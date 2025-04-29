@@ -47,6 +47,39 @@ A console-based Library Management System developed in C++ that allows the users
    ./online-library
 
 ---
+## File Structure
+
+-  **`online-library.cpp`**  
+  Contains all the class definitions (`Person`, `Student`, `Book`, `Library`) and the program's main logic.
+
+- **`books.txt`**  
+  Stores information about books (e.g., title, ISBN, issued status).
+
+- **`students.txt`**  
+  Stores information about students (e.g., student ID, name, reserved book status).
+---
 ## Project Documentation
 
 For a detailed explanation of the system's design, class description, and more, please refer to the full [Project Documentation](docs/Konrad_Włodarczyk_OOP_project_documentation.docx).
+
+---
+
+## Future Development
+
+- Implement a graphical user interface (GUI).
+- Enhance the reservation system with waitlists.
+- Integrate a database for better data management.
+- Improve authentication and security for library staff.
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
+
+--- 
+
+## Contact
+
+For questions or suggestions, feel free to reach out!
