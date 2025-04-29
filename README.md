@@ -35,7 +35,7 @@ A console-based Library Management System developed in C++ that allows the users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
+   git clone https://github.com/konrad-wlodarczyk/oop-library-project.git
    cd library-management-system
 
 2. Compile the project:
